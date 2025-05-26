@@ -1,0 +1,4 @@
+2006_admin|ngocanh|Ngoc Anh|nam|26/08/2006|0332174116|anh066000@gmail.com|0
+anh_admin|ngocnaasdf|ngocanh|nam|ss/ss/ssss|0332714116|aradfad@gmail.com|0
+nguyenngocanh_admin|ngocanh|ngocanh|nam|09/03/2006|0332174116|anh066000@gmail.com|0
+NA001_admin|ngocanh|ngocanh|nam|ss/ss/ssss|0332174116|anh@gmail.com|0

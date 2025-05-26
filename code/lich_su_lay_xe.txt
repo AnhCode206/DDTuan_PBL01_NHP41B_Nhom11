@@ -1,0 +1,37 @@
+34DV-FB|xe may|Wed May  7 00:50:18 2025|Wed May  7 00:55:25 2025|2006|ngoc anh|2000
+34DV-FB|xe may|Wed May  7 00:50:18 2025|Wed May  7 01:07:51 2025|2006|ngoc anh|2000
+23ER-TY|xe oto|Wed May  7 00:50:32 2025|Wed May  7 01:08:19 2025|2006|ngoc anh|2000
+23ER-TY|xe oto|Wed May  7 00:50:32 2025|Wed May  7 01:10:17 2025|2006|ngoc anh|2000
+34DV-FB|xe may|Wed May  7 00:50:18 2025|Wed May  7 01:14:48 2025|2006|ngoc anh|2000
+51XY-ZA|xe oto|Wed May  7 09:00:00 2025|Wed May  7 02:28:44 2025|1234|minh tuan|2000
+cadca|xe may|Wed May  7 10:33:42 2025|Wed May  7 10:38:02 2025|1234| dcad|2000
+aevvr|xe may|Wed May  7 10:34:11 2025|Wed May  7 10:38:25 2025|1234| dcadc|2000
+advarvaes|xe may|Wed May  7 10:34:25 2025|Wed May  7 10:38:35 2025|1234|acvarv|2000
+adcadc|xe may|Wed May  7 10:33:36 2025|Wed May  7 10:40:06 2025|1234|ï¿½dvadc|2000
+34ER-UI|xe may|Wed May  7 13:16:59 2025|Wed May  7 13:17:43 2025|1234|Ngoc Anh|2000
+132SCCDC|xe may|Wed May  7 10:33:18 2025|Wed May  7 13:17:56 2025|1234|naddsf|2000
+advadv|xe may|Wed May  5 10:33:24 2025|Wed May  7 13:19:49 2025|1234|?evar|2000
+advadv|xe may|Wed May  5 10:33:24 2025|Wed May  7 13:24:05 2025|1234|?evar|102000
+51XY-ZA|xe oto|Wed May  7 09:00:00 2025|Thu May  8 03:00:58 2025|1234|minh tuan|95000
+51XY-ZA|xe oto|Thu May  8 03:01:15 2025|Thu May  8 03:01:45 2025|1234|minh tuan|5000
+adscascd|xe may|Wed May  7 10:33:30 2025|Fri May  9 10:55:45 2025|1234|adad|98000
+12345|xe may|Sat May 10 00:28:56 2025|Sat May 10 20:15:56 2025|1234|ngoc anh|40000
+12345|xe may|Mon May 12 00:20:34 2025|Mon May 12 00:20:34 2025|1234|ngoc anh|1440000
+23DV-IU|xe may|Mon May 12 00:55:37 2025|Mon May 12 00:56:04 2025|1234|ngoc anh|2000
+advadv|xe may|Mon May 12 00:43:06 2025|Mon May 12 00:59:42 2025|1234|?evar|2000
+adscascd|xe may|Mon May 12 01:01:36 2025|Mon May 12 01:01:42 2025|1234|adad|2000
+56adv|xe may|Tue May 11 00:23:13 2025|Tue May 13 00:25:07 2025|1234|adsadc|98000
+132SCCDC|xe may|Tue May 13 23:45:53 2025|Tue May 13 23:57:28 2025|1234|naddsf|2000
+132SCCDC|xe may|Wed May 14 02:35:24 2025|Wed May 14 02:44:41 2025|1234|naddsf|2000
+2334DVKSSSS|xe may|Thu May 15 10:36:29 2025|Thu May 15 10:37:26 2025|1234|ngoc anh|2000
+132SCCDC|xe may|Thu May 15 18:38:22 2025|Sun May 18 01:34:04 2025|ngocanh_2006|naddsf|110000
+cadca|xe may|Fri May 16 07:24:13 2025|Sun May 18 01:34:50 2025|ngocanh_2006| dcad|86000
+23DSWWI|xe oto|Sun May 18 01:30:29 2025|Sun May 18 01:35:13 2025|ngocanh_2006|ngocnah|5000
+132SCCDC|xe may|Sun May 18 01:37:41 2025|Sun May 18 01:37:51 2025|ngocanh_2006|naddsf|2000
+adcadc|xe may|Sun May 18 01:38:10 2025|Sun May 18 01:38:21 2025|ngocanh_2006| dvadc|2000
+adscascd|xe may|Sun May 18 01:39:11 2025|Sun May 18 17:32:18 2025|ngocanh_2006|adad|32000
+MESEDEL_20643|xe oto|Wed May 21 01:07:44 2025|Wed May 21 01:08:24 2025|NQ001|nguyen nhu quynh|5000
+132SCCDC|xe may|Wed May 21 13:33:20 2025|Wed May 21 13:40:28 2025|ngocanh_2006|naddsf|2000
+GH_43|xe may|Wed May 21 16:38:17 2025|Wed May 21 18:26:55 2025|NA003|nguyen ngoc anh|4000
+aevvr|xe may|Fri May 23 7:34:01 2025|Fri May 23 11:36:08 2025|ngocanh_2006| dcadc|10000
+aevvr|xe may|Fri May 23 11:38:50 2025|Fri May 23 11:39:12 2025|ngocanh_2006| dcadc|2000
