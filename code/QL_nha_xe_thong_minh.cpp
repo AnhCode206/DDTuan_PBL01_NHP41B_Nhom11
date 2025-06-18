@@ -706,7 +706,7 @@ class bai_xe : public thong_tin_nguoi, public thong_tin_xe{
                 }
                 if(dem_pt_canhan != 0){
                     ke.ke_bang(tieu_de, do_rong, dulieu);
-                }else cout << "Khong co xe may nao trong nha xe...\n";
+                }else cout << "Khong co xe oto nao trong nha xe...\n";
             }
         }
 
@@ -762,7 +762,7 @@ class bai_xe : public thong_tin_nguoi, public thong_tin_xe{
                 if(dem_pt_canhan != 0){
                     ke.ke_bang(tieu_de, do_rong, dulieu);
                 }else{
-                    cout << "Khong co oto nao trong nha xe...\n";
+                    cout << "Khong co xe oto nao trong nha xe...\n";
                 }
             }
         }
